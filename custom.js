@@ -1,0 +1,1 @@
+document.querySelector("#rtd-search-form input").removeAttribute("placeholder");
